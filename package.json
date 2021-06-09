@@ -59,7 +59,7 @@
     "jsonwebtoken": "^8.5.1",
     "jss": "^10.1.1",
     "jss-rtl": "^0.3.0",
-    "jwt-decode": "^2.2.0",
+    "jwt-decode": "^3.1.2",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "notistack": "^1.0.9",
